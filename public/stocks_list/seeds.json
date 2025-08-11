@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Carrot",
+        "img_url": "/stocks_image/seeds/Carrot.webp",
+        "rarity": "Common"
+    },
+    {
+        "name": "Strawberry",
+        "img_url": "/stocks_image/seeds/Strawberry.webp",
+        "rarity": "Common"
+    },
+    {
+        "name": "Blueberry",
+        "img_url": "/stocks_image/seeds/Blueberry.webp",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Orange Tulip",
+        "img_url": "/stocks_image/seeds/Orange_Tulip.webp",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Tomato",
+        "img_url": "/stocks_image/seeds/Tomato.webp",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Corn",
+        "img_url": "/stocks_image/seeds/Corn.webp",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Daffodil",
+        "img_url": "/stocks_image/seeds/Daffodil.webp",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Watermelon",
+        "img_url": "/stocks_image/seeds/Watermelon.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Pumpkin",
+        "img_url": "/stocks_image/seeds/Pumpkin.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Apple",
+        "img_url": "/stocks_image/seeds/Apple.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Bamboo",
+        "img_url": "/stocks_image/seeds/Bamboo.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Coconut",
+        "img_url": "/stocks_image/seeds/Coconut.webp",
+        "rarity": "Mythical"
+    },
+    {
+        "name": "Cactus",
+        "img_url": "/stocks_image/seeds/Cactus.webp",
+        "rarity": "Mythical"
+    },
+    {
+        "name": "Dragon Fruit",
+        "img_url": "/stocks_image/seeds/Dragon_Fruit.webp",
+        "rarity": "Mythical"
+    },
+    {
+        "name": "Mango",
+        "img_url": "/stocks_image/seeds/Mango.webp",
+        "rarity": "Mythical"
+    },
+    {
+        "name": "Grape",
+        "img_url": "/stocks_image/seeds/Grape.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Mushroom",
+        "img_url": "/stocks_image/seeds/Mushroom.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Pepper",
+        "img_url": "/stocks_image/seeds/Pepper.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Cacao",
+        "img_url": "/stocks_image/seeds/Cacao.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Beanstalk",
+        "img_url": "/stocks_image/seeds/Beanstalk.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Ember Lily",
+        "img_url": "/stocks_image/seeds/Ember_Lily.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Sugar Apple",
+        "img_url": "/stocks_image/seeds/Sugar_Apple.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Burning Bud",
+        "img_url": "/stocks_image/seeds/Burning_Bud.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Giant Pinecone",
+        "img_url": "/stocks_image/seeds/Giant_Pinecone.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Elder Strawberry",
+        "img_url": "/stocks_image/seeds/Elder_Strawberry.webp",
+        "rarity": "Prismatic"
+    }
+]

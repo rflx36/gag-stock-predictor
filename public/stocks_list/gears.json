@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Levelup Lollipop",
+        "img_url": "/stocks_image/gears/Levelup_Lollipop.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Grandmaster Sprinkler",
+        "img_url": "/stocks_image/gears/Grandmaster_Sprinkler.webp",
+        "rarity": "Prismatic"
+    },
+    {
+        "name": "Friendship Pot",
+        "img_url": "/stocks_image/gears/Friendship_Pot.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Harvest Tool",
+        "img_url": "/stocks_image/gears/Harvest_Tool.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Favorite Tool",
+        "img_url": "/stocks_image/gears/Favorite_Tool.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Cleaning Spray",
+        "img_url": "/stocks_image/gears/Cleaning_Spray.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Master Sprinkler",
+        "img_url": "/stocks_image/gears/Master_Sprinkler.webp",
+        "rarity": "Divine"
+    },
+    {
+        "name": "Magnifying Glass",
+        "img_url": "/stocks_image/gears/Magnifying_Glass.webp",
+        "rarity": "Mythical"
+    },
+    {
+        "name": "Godly Sprinkler",
+        "img_url": "/stocks_image/gears/Godly_Sprinkler.webp",
+        "rarity": "Mythical"
+    },
+    {
+        "name": "Medium Treat",
+        "img_url": "/stocks_image/gears/Medium_Treat.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Medium Toy",
+        "img_url": "/stocks_image/gears/Medium_Toy.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Advanced Sprinkler",
+        "img_url": "/stocks_image/gears/Advanced_Sprinkler.webp",
+        "rarity": "Legendary"
+    },
+    {
+        "name": "Basic Sprinkler",
+        "img_url": "/stocks_image/gears/Basic_Sprinkler.webp",
+        "rarity": "Rare"
+    },
+    {
+        "name": "Recall Wrench",
+        "img_url": "/stocks_image/gears/Recall_Wrench.webp",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Trowel",
+        "img_url": "/stocks_image/gears/Trowel.webp",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Trading Ticket",
+        "img_url": "/stocks_image/gears/Trading_Ticket.webp",
+        "rarity": "Uncommon"
+    },
+    {
+        "name": "Watering Can",
+        "img_url": "/stocks_image/gears/Watering_Can.webp",
+        "rarity": "Common"
+    }
+]
