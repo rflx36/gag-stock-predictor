@@ -1,1 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;700&display=swap');
 @import "tailwindcss";
+
+@font-face {
+    font-family: 'Comic Neue';
+    src: url('/fonts/ComicNeue-Angular-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+body{
+    background-color: #121212;
+}
+
+.font-comic {
+    font-family: 'Comic Neue', sans-serif;
+}
+
+
+.font-figtree {
+  font-family: 'Figtree', sans-serif;
+}
+
+.bg-style {
+    @apply bg-[url(/roblox_default_texture_recreation.png)] bg-blend-overlay
+}
+
+
+
+.input-style {
+    @apply   outline-0 [appearance:textfield] [&::-webkit-outer-spin-button]:appearance-none [&::-webkit-inner-spin-button]:appearance-none
+}
+
